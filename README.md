@@ -6,6 +6,8 @@ The Mini Assignment App is a full-stack application designed to streamline the a
 
 ### Hosted Link
 
+-[Video]-https://drive.google.com/file/d/1kCaHm6AImRKzBsmSW1GSEdwhpXIXIhx9/view?usp=drive_link
+
 - [Live Demo](https://assingment-app-lonots.netlify.app/)
 
 ### Frontend Repository
