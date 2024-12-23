@@ -32,7 +32,7 @@ The Mini Assignment App is a full-stack application designed to streamline the a
 - **View Assigned Tasks**: Users can see only the tasks they are assigned to.
 - **Track Progress**: Users can track their progress and scores for the tasks they are working on.
 - **Search Tasks**: Users can search for tasks to complete easily.
-- **View All Tasks**: Users can view all tasks assigned to them.
+- **View All Projects**: Users can view all Projects assigned to them.
 
 ## Technology Stack
 
